@@ -18,15 +18,15 @@ body,html{
     opacity: 0.7;
 }
 .img1{
-    background-image: url(image1.jpg);
+    background-image: url(./Images/image1.jpg);
     min-height: 100%;
 }
 .img2{
-    background-image: url(image2.jpg);
+    background-image: url(./Images/image2.jpg);
     min-height: 400px;
 }
 .img3{
-    background-image: url(image3.jpg);
+    background-image: url(./Images/image3.jpg);
     min-height: 400px;
 }
 .section{
